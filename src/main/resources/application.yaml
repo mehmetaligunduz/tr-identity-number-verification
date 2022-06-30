@@ -1,0 +1,4 @@
+nvi:
+  identity-verification:
+    url: https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx
+    soapAction: http://tckimlik.nvi.gov.tr/WS/TCKimlikNoDogrula
