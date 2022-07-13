@@ -1,0 +1,12 @@
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/resources/response/IdentityVerificationResponse.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/resources/request/IdentityVerificationRequest.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/resources/controller/IdentityVerificationController.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/TCKimlikNoDogrulaResponse.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/internal/VerifyService.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/client/Config.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/package-info.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/TCKimlikNoDogrula.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/IdentityVerificationApplication.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/ObjectFactory.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/internal/VerifyServiceImpl.java
+/Users/mehmetgunduz/IdeaProjects/IdentityVerification/src/main/java/com/nvi/identity/service/external/client/SOAPConnector.java

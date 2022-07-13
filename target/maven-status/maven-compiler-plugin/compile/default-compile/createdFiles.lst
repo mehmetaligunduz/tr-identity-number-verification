@@ -1,0 +1,13 @@
+com/nvi/identity/resources/controller/IdentityVerificationController.class
+com/nvi/identity/resources/response/IdentityVerificationResponse.class
+com/nvi/identity/service/external/ObjectFactory.class
+com/nvi/identity/service/external/TCKimlikNoDogrulaResponse.class
+com/nvi/identity/service/external/package-info.class
+com/nvi/identity/service/external/TCKimlikNoDogrula.class
+com/nvi/identity/resources/response/IdentityVerificationResponse$IdentityVerificationResponseBuilder.class
+com/nvi/identity/service/external/client/Config.class
+com/nvi/identity/service/external/client/SOAPConnector.class
+com/nvi/identity/service/internal/VerifyService.class
+com/nvi/identity/IdentityVerificationApplication.class
+com/nvi/identity/service/internal/VerifyServiceImpl.class
+com/nvi/identity/resources/request/IdentityVerificationRequest.class
